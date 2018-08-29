@@ -2,6 +2,9 @@
 
 ## Por Sham Vinicius Fiorin
 
+![alt text](https://raw.githubusercontent.com/skatesham/Inteligencia-Artificial-com-Raspagem-em-Python/master/img/cores%20carros.png)
+
+![alt text](https://raw.githubusercontent.com/skatesham/Inteligencia-Artificial-com-Raspagem-em-Python/master/img/marca%20dos%20veiculos.png)
 ### Professor Fernando Massanori
 
 #### Entidade FATEC-SJC
